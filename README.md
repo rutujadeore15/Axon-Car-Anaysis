@@ -21,8 +21,7 @@
       
        
   Here is a short description of the data tables included that contains typical business data such as
-  
-        customers, products, sales orders, sales order line items, etc.
+  customers, products, sales orders, sales order line items, etc.
 
 
 Customers: stores customer’s data.
