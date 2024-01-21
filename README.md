@@ -4,8 +4,8 @@
   The sales team is struggling to make sense of the data and they do not have a centralized system to manage and analyze the data.
   The management is unable to get accurate and up-to-date sales reports, which is affecting the decision-making process.
 
+ ![axon](https://github.com/rutujadeore15/Axon-Car-Anaysis/assets/140812073/c4da0ae3-606a-4090-8907-622695950acc)
 
-![Uploading image.png…]()
 
 
       
