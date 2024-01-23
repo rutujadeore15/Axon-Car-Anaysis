@@ -24,10 +24,10 @@
  stores a list of product line categories.
 
 #### Orders: 
-    stores sales orders placed by customers.
+stores sales orders placed by customers.
 
 #### Order Details:
- stores sales order line items for each sales order.
+stores sales order line items for each sales order.
 
 #### Payments: 
 stores payments made by customers based on their accounts.
