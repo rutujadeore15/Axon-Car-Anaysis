@@ -15,22 +15,22 @@
 
 
 #### Customers:
-       stores customer’s data.
+ stores customer’s data.
 
 #### Products:
-      stores a list of scale model cars.
+ stores a list of scale model cars.
 
 #### Product Lines: 
-     stores a list of product line categories.
+ stores a list of product line categories.
 
 #### Orders: 
     stores sales orders placed by customers.
 
 #### Order Details:
-    stores sales order line items for each sales order.
+ stores sales order line items for each sales order.
 
 #### Payments: 
-   stores payments made by customers based on their accounts.
+stores payments made by customers based on their accounts.
 
 
 # Project Highlights
